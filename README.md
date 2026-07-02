@@ -82,13 +82,37 @@ The interactive dashboard includes:
 ## Repository Structure
 
 ```text
-dataset/
-sql/
-python/
-powerbi/
-outputs/
-README.md
+E-Commerce-Sales-Analytics/
+│
+├── dataset/
+│   └── Ecommerce_Dataset.xlsx
+│
+├── sql/
+│   └── SQL_Queries.sql
+│
+├── python/
+│   └── RFM_Analysis.ipynb
+│
+├── outputs/
+│   ├── rfm_results.csv
+│   └── forecast_results.csv
+│
+├── powerbi/
+│   └── ECommerce_Dashboard.pbix
+│
+└── README.md
 ```
+
+## Workflow
+
+- **Excel:** Cleaned and prepared the e-commerce dataset.
+- **MySQL:** Imported the dataset and performed SQL analysis.
+- **Python:** Imported the dataset performed RFM Analysis, Customer Retention Analysis, and Revenue Forecasting, then generated `rfm_results.csv` and `forecast_results.csv`.
+- **Power BI:** Imported the Python output files and created interactive dashboards for:
+  - Sales Performance
+  - Customer Segmentation (RFM)
+  - Product Profitability
+  - Revenue Forecasting
 
 ## Author
 
