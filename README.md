@@ -51,7 +51,7 @@ Power BI Dashboard
 
 The interactive dashboard includes:
 
-Sales Performance Dashboard
+Sales Performance Dashboard 
 Customer Segmentation Dashboard
 Product Profitability Dashboard
 Revenue Forecast Dashboard
