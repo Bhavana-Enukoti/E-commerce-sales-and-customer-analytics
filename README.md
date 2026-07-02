@@ -1,5 +1,4 @@
 # E-Commerce Sales & Customer Analytics
-
 Project Overview
 
 This project analyzes e-commerce sales data to uncover business insights related to sales performance, customer behavior, product profitability, customer retention, and revenue forecasting. The workflow combines Excel, MySQL, Python, and Power BI to perform data cleaning, analysis, predictive modeling, and interactive dashboard visualization.
@@ -71,5 +70,4 @@ outputs/
 README.md
 Author
 
-Bhavana Enukoti
 Bhavana Enukoti
